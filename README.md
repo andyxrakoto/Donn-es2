@@ -1,6 +1,6 @@
 # Donnees2
 # Projet de Collecte de Données sur la Pollution de l'Air
-#Description
+Description
 Ce projet, développé par Andinirina RAKOTO HARISATA, vise à créer un système complet pour la collecte, l'analyse et la visualisation des données relatives à la pollution de l'air. Il est conçu pour aider les chercheurs, les décideurs, et le grand public à mieux comprendre les niveaux de pollution dans différentes régions et à suivre les tendances au fil du temps. Les principales fonctionnalités du projet incluent :
 
 Collecte de Données : Extraction et agrégation de données sur la pollution de l'air provenant de diverses sources, y compris des capteurs en temps réel et des bases de données publiques.
